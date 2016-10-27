@@ -9,7 +9,8 @@ name = sys.argv[1]
 
 pcMacMap = {
     'pc2': '74.D4.35.E1.27.55',
-    'blitz': '74.D0.2B.C6.A2.D5'
+    'blitz': '74.D0.2B.C6.A2.D5',
+    'gamer': '90.2B.34.A4.E9.AB',
 }
 
 mac = pcMacMap.get(name, name)

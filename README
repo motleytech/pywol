@@ -1,1 +1,3 @@
-# Wake on lan
+# Wake on lan python script
+
+Wake up a computer by sending a magic packet to its MAC address (the computer must be preconfigured to be woken in such a manner)
